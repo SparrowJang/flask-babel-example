@@ -3,6 +3,8 @@ flask-babel-example
 
 This is Flask-Babel example.
 
+![Demo Image](images/chrome_header.png)
+
 ##Dependency
 
 * Flask
