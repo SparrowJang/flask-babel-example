@@ -5,19 +5,19 @@ This is Flask-Babel example.
 
 ![Demo Image](images/chrome_header.png)
 
-##Dependency
+## Dependency
 
 * Flask
 * Flask-Babel
 
-##Install dependency
+## Install dependency
 
 ```
 easy_install Flask
 
 easy_install Flask-Babel
 ```
-##Usage
+## Usage
 
 Run server.
 ```
